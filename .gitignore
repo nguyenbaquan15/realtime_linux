@@ -1,0 +1,16 @@
+# executables
+*.out
+*.elf
+*.bin
+
+# object files
+*.o
+*.obj
+
+# static/shared libs
+*.a 
+*.so
+
+# debug files
+*.d
+*.map
